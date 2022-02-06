@@ -1,5 +1,7 @@
 # Improving-Liquor-Profits-for-the-Iowa-Alcoholic-Beverage-Division.
-BA775: Business Analytics Toolbox Project
+[BA775: Business Analytics Toolbox Project] Summer 2021
+
+Analyzed Iowa’s liquor sales to improve profit; created a Tableau dashboard and conducted exploratory data analysis using Python and Google Cloud Platform (Big Query) for data storage, transformation, and extraction.
 
 Tableau Dashboard:
 https://public.tableau.com/app/profile/luke.hong/viz/ImprovingLiquorProfitoftheIowaAlcoholicBeverageDivision_16439173362770/Comparisonofcategories
